@@ -24,4 +24,4 @@ def calculate(input: Array[Int], pos: Int) {
       calculate(input, pos+4)
 }
 
-}
+} 
